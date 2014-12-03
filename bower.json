@@ -1,0 +1,22 @@
+{
+  "name": "klaviyo-learnmarklet",
+  "main": "index.js",
+  "version": "0.0.1",
+  "authors": [
+    "reggi <thomas@reggi.com>"
+  ],
+  "keywords": [
+    "klaviyo",
+    "learn",
+    "learnmarklet"
+  ],
+  "license": "MIT",
+  "homepage": "a.klaviyo.com/media/js/learnmarklet.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
